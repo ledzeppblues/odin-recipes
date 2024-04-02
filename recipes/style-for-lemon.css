@@ -1,0 +1,28 @@
+h1 {
+    background-color: blueviolet;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+        font-size: 32px;
+
+}
+
+.para {
+    font-size: 22px;
+}
+
+.parent {
+    background-color: yellow;
+    font-size: 24px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parent2 {
+    background-color: yellow;
+    font-size: 24px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+}
